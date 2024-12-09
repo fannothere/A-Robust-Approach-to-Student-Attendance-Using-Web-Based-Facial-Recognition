@@ -11,16 +11,3 @@ For face detection, YOLOv8 can be fine-tuned to identify faces in images or vide
 By integrating YOLO for face detection and MobileNetV2 for face recognition, you can develop an efficient and scalable face recognition system. YOLOv8 can quickly detect faces in images or video streams, providing bounding boxes for each detected face. These regions are then passed to MobileNetV2, which extracts features and compares them with a database to identify the individuals. This combination ensures both speed and accuracy, making it ideal for real-time applications like attendance tracking or security systems.
 
 ---
-
-## Flowchart
-
-![](flowchart.png)
-
----
-
-## Installation
-
-### Step 1: Clone the Repository
-```bash
-git clone <repository-url>
-cd <repository-folder>
