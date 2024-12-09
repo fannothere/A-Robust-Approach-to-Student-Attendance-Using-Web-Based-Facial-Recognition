@@ -1,0 +1,6 @@
+numpy==1.23.5
+opencv-python==4.8.0.76
+ultralytics==8.0.121
+mysql-connector-python==8.1.0
+tensorflow==2.13.0
+Pillow==9.5.0
